@@ -3,7 +3,7 @@ description: "A plan for my first 90 days"
 url: "https://nlieurance.github.io"
 baseurl: "/Woodward/"  # For user/organization sites; for project sites use "/repo-name"
 
-theme: Slate   # Or another supported theme
+theme: Slate theme   # Or another supported theme
 markdown: kramdown
 plugins:
   - jekyll-feed
