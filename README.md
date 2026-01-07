@@ -1,9 +1,7 @@
 # Overview
-As a new technical writer for Woodward, my first 90 days will be about building a mental model of how things work at the company. From there, I’ll be able to develop solutions to most important challenges. Here’s how…
+As a new technical writer for Woodward, my first 90 days will be about building a mental model of how things work at the company. From there, I’ll be able to develop solutions to most important challenges. Here’s how
 
-## My first 90 days
-
-### Top three priorities
+## Top three priorities
 By focusing on three key themes, I’ll be able to make measurable progress in reasonable time.
 
 - Establish relationships with key stakeholders.
