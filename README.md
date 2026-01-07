@@ -1,18 +1,18 @@
 # Overview
-As a new technical writer for Woodward, my first 90 days will be about building a mental model of how things work at the company. From there, I’ll be able to develop solutions to most important challenges. Here’s how
+As a new technical writer for Woodward, my first 90 days will be about building a mental model of systems and workflows. From there, I’ll be able to develop solutions to the most important challenges. Here’s how...
 
 ## Top three priorities
-By focusing on three key themes, I’ll be able to make measurable progress in reasonable time.
+By focusing on three key themes, I’ll make measurable progress in reasonable time.
 
-- Establish relationships with key stakeholders.
+1. Establish relationships with key stakeholders.
   - Interview and shadow machine operators.
   - Talk with engineers about how they work.
   - Speak with trainer(s) and technical writers about documentation.
-- Understand processes and tools used.
+2. Understand processes and tools used.
   - Explore models in Creo.
   - Examine existing work instructions in Ignition.
   - Sketch out models of workflows and systems.
-- Work with stakeholders to brainstorm solutions to big challenges.
+3. Work with stakeholders to brainstorm solutions to big challenges.
   - How might we keep work instruction content up to date?
   - How might we prevent operators from missing work-instruction changes?
 
