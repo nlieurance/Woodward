@@ -1,7 +1,4 @@
-# Woodward Technical Writer
-Nick Lieurance
-
-## Overview
+# Overview
 As a new technical writer for Woodward, my first 90 days will be about building a mental model of how things work at the company. From there, I’ll be able to develop solutions to most important challenges. Here’s how…
 
 ## My first 90 days
